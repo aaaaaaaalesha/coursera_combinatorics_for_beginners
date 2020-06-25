@@ -5,4 +5,3 @@
 
 [logo]: src/intro.jpg
 [tasks]: week1.pdf "щелкните, чтобы посмотреть задачи"
-
