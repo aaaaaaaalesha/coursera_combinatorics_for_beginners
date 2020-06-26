@@ -19,5 +19,10 @@
 
 В каждой папке можно найти .pdf файл с разбором задач. Перейти к нему можно также в соответсвующем README.md файле, нажав на intro-пикчу.
 
+[![Задачи][logo]][tasks]
+
+[logo]: week7-Alignments/src/sert.jpg
+[tasks]: https://coursera.org/share/a4046a37989baabe07520c303408c202 "щелкните, чтобы посмотреть все задачи"
+
 
 Ссылка на курс: https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/
