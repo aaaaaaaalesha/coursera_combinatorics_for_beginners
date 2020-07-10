@@ -24,7 +24,7 @@
 [![Сертификат][sertificate]][proof]
 
 [sertificate]: week7-Alignments/src/sert.jpg
-[proof]: https://coursera.org/share/a4046a37989baabe07520c303408c202 "щелкните, чтобы посмотреть все задачи"
+[proof]: https://coursera.org/share/a4046a37989baabe07520c303408c202 "щелкните, чтобы посмотреть подтверждение сертификата"
 
 
 Ссылка на курс: https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/
